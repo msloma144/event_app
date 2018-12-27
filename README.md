@@ -1,5 +1,5 @@
 # Django REST API Framework
-Code for the guide on setting up a Djnago RESTful API.
+Code for the guide on setting up a Django RESTful API.
 Guide: https://www.msloma.com/blog/post/django-rest-api-framework
 
 ## Links
